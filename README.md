@@ -1,6 +1,6 @@
 # Computing the Path to Employment: Understanding the Impact of Computer Knowledge in India
 
-**Author:** Rajat Chhabra (Exam Roll No. 22227707020, Class Roll No. 205)
+**Author:** Rajat Chhabra
 **Course:** Coding Basics with Economic Applications (EC410)
 **Instructor:** Prof. Devesh Birwal
 
